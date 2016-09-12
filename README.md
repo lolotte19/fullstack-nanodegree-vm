@@ -13,6 +13,7 @@ this project is using
 2. [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
 
 Vagrant is the software that configures the virtual machine and lets you share files between the host computer and the VM's filesystem.
+
 Virtual Box is the software that runs the virtual machine 
 
 ## PostgreSQL
