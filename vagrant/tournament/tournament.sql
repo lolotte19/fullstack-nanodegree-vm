@@ -7,3 +7,14 @@
 -- these lines here.
 
 
+create table players (P_id serial primary key, name text);
+
+
+
+create table standings (
+P_id integer references players(P_id), 
+number_win integer, 
+number_match integer
+);
+
+
