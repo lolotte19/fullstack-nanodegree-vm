@@ -1,5 +1,4 @@
-Is a README file included, 
-detailing all steps required to successfully run the application?
+
 
 # Introduction
 The tournament runs a Swiss type tournament as long as there is an even 
